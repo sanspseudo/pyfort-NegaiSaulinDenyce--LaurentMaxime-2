@@ -52,14 +52,14 @@ def jeu():
         else:
             print(f"\n{joueur['nom']} a malheureusement echoué à l'epreuve {choix_epreuve}")
         
-    print("\n\nBravo !! Votre équipe a collecté 3 clés. Vous pouvez accéder à la salle au trésor\n\n")
+    print("\n\nBravo !! Votre équipe a collecté 3 clés. Vous pouvez participer à l'épreuve finale de notre émission\n\n")
 
     
     gagne = epreuve_finale.salle_De_Tresor()
     if gagne is True:
-        print("Vous avez gagné le jeu et remportez le grand Prix. Vous avez été excellent")
+        print("\n\nVOUS AVEZ GAGNE LE JEU ET REMPORTEZ LE GRAND PRIX. VOUS AVEZ ETE EXCELLENT")
     else:
-        print("Vous avez perdus cette fois-ci mais vous pouvez retenter votre chance, vous étiez si près du but")
+        print("\n\nVOUS AVEZ PERDU CETTE FOIS-CI MAIS VOUS POUVEZ RETENTER VOTRE CHANCE, VOUS ETIEZ SI PRES DU BUT")
 
      
 jeu()
