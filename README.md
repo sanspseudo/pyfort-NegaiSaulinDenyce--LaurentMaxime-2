@@ -11,6 +11,7 @@ LAURENT Maxime
 Ce projet est un jeu base sur le jeu télévisé "Fort Boyard". Plusieurs épreuves doivent être accomplis pour gagner des clés et accéder à la salle du trésor
 
 **Fonctionnalités principales**
+
     - Création d'une équipe de 1 à 3 joueurs pour participer aux jeux
 
     - Participation à des épreuves variées :
@@ -24,10 +25,12 @@ Ce projet est un jeu base sur le jeu télévisé "Fort Boyard". Plusieurs épreu
     - Epreuve finale finalisant le jeu
 
 **Technologies utilisées**
+
     - Langage : Python
     - Bibliothèques : random, json
 
 **Installation**
+
     - Dépôt Git : 
         - Installer Git sur votre appareil
 
@@ -37,6 +40,7 @@ Ce projet est un jeu base sur le jeu télévisé "Fort Boyard". Plusieurs épreu
     - Avoir Python installé sur votre appareil
 
 **Utilisation**
+
     - Lancer le fichier main.py, le programme principal, et suivre le fil du jeu
     - Gagner des clés et finir l'épreuve finale pour gagner 
 
